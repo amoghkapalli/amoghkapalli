@@ -4,7 +4,7 @@
 
 *   💻  I'm studying Computer Science at the University of Washington '23
 *   🧠  Currently working on Android projects and AWS projects
-*   🌱  Interested in android dev, backend development, cloud engineering
+*   🌱  Interested in Android Development, Backend Development, Cloud Engineering
 *   📫  Contact me at: [amoghkapalli12gmail.com](mailto:amoghkapalli12@gmail.com)
 
 
