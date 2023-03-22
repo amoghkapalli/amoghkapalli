@@ -1,5 +1,7 @@
 ### Hi there 👋 My name is Amogh Kapalli!
 
+![](https://komarev.com/ghpvc/?username=amoghkapalli)
+
 ## About Me 
 
 *   💻  I'm studying Computer Science at the University of Washington '23
